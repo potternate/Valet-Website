@@ -1,5 +1,5 @@
 # Valet Website for Precision Parking
-A Website I designed for a Valet Company using html, css, and js. 
+This is a website I designed for a Valet Company using html, css, and js. 
 
 Old Website - precision-parking.com
 
