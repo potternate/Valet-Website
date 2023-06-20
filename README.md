@@ -1,4 +1,4 @@
-# Valet Website for Precision Parking
+# Website Rebuild for Valet Company
 This is a website I designed for a valet company using html, css, and js. 
 
 [Old Website](https://precision-parking.com)
